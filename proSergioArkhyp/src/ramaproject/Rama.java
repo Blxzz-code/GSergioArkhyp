@@ -11,5 +11,6 @@ package ramaproject;
 public class Rama {
     
     String msg = "Soy una rama";
+    String msg_two = "Soy una rama cambiada";
     
 }
